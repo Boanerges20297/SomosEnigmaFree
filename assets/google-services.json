@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188804357694",
+    "firebase_url": "https://eusouenigma1-default-rtdb.firebaseio.com",
+    "project_id": "eusouenigma1",
+    "storage_bucket": "eusouenigma1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188804357694:android:da3840aa5ca509200c3b6f",
+        "android_client_info": {
+          "package_name": "com.bl.eusouenigma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188804357694-3hgant3l43q2a1v62retphmfcrojhl3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bl.eusouenigma",
+            "certificate_hash": "9fe17a04d06801f623ec74de4e4a7584cbd6c8a6"
+          }
+        },
+        {
+          "client_id": "188804357694-lqovdeufbqtfmvfgs02g63foqfkijpuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmyBcdePOyUd2OPz1_88WSBP4aerSAXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188804357694-lqovdeufbqtfmvfgs02g63foqfkijpuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
